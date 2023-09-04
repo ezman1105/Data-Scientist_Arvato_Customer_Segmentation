@@ -1,5 +1,5 @@
 
-# Capstone Project -- 
+# Udacity Capstone Project
 ## Customer Segmentation for Arvato Financial Services
 
 Improving the efficiency to target the group of potential customers and concentrating valuable resources on the right individuals is the challenge for business and all industries. In this article, unsupervised and supervised machine learning algorithms are described to analyze  demographics data for customers of a mail-order sales company. The are two main tasks in the project:
