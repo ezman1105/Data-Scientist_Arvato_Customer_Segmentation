@@ -8,7 +8,7 @@ Improving the efficiency to target the group of potential customers and concentr
 
 2. Build a forecasting model to estimate and recognize promising customer response for a marketing campaign
 
-The complete report can be found in the <a href=https://medium.com/@johnma19821105/save-your-resource-and-effectively-target-your-client-eba0096c24c1>this blogpost</a>.
+The complete report can be found in this <a href=https://medium.com/@johnma19821105/save-your-resource-and-effectively-target-your-client-eba0096c24c1> blogpost</a>.
 
 ## Installation
 All programs and libraries that were used, including Pandas, Numpy, and scikit-learn.
