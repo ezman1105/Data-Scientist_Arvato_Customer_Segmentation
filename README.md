@@ -1,5 +1,5 @@
 
-# Capstone Project -- 
+# Capstone Project
 ## Customer Segmentation for Arvato Financial Services
 
 ## Project overview
@@ -46,6 +46,6 @@ Furthermore, there are 2 more excel sheets to describe features:
 Please refer to 'requirement.txt' for details
 
 ## License
-Due to privacy agreement with Arvato Financial Services, the datasets and supplementary documents listed above are not publicly shared.
+Due to privacy agreement with Arvato Financial Services, **the datasets and supplementary documents listed above are not publicly shared.**
 
 
