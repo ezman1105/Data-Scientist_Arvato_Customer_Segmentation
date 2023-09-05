@@ -51,3 +51,6 @@ Due to privacy agreement with Arvato Financial Services, the datasets and supple
 ## Acknowledgements
 * <a href=https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/>KModes Clustering Algorithm for Categorical data</a>
 * <a href=https://www.geeksforgeeks.org/k-mode-clustering-in-python/> K-Modes Clustering in Python</a>
+* <a href=https://amva4newphysics.wordpress.com/2016/10/26/into-the-world-of-clustering-algorithms-k-means-k-modes-and-k-prototypes/>Into the world of clustering algorithms: k-means, k-modes and k-prototypes</a>
+* <a href=https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/>Complete Machine Learning Guide to Parameter Tuning in Gradient Boosting (GBM) in Python</a>
+* <a href=https://www.kaggle.com/code/juanmah/tactic-03-hyperparameter-optimization-adaboost>Tactic 03. Hyperparameter optimization. Adaboost</a>
